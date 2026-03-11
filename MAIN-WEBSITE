@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Exterior Property Maintenance | Leak Repairs | Roofline & PVC Specialists</title>
+
+<meta name="description" content="Exterior Property Maintenance specialists in leak detection, penetrating damp, roofline replacement, fascias, soffits, gutters, windows and doors. PVC experts.">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+body{
+font-family:Arial, Helvetica, sans-serif;
+background:#f4f6f8;
+color:#333;
+line-height:1.6;
+}
+
+nav{
+background:#1f2933;
+position:sticky;
+top:0;
+z-index:1000;
+}
+
+nav .nav-container{
+max-width:1100px;
+margin:auto;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px;
+color:white;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+font-size:14px;
+}
+
+.hero{
+background:#1f2933;
+color:white;
+text-align:center;
+padding:80px 20px;
+}
+
+.hero h1{
+font-size:40px;
+margin-bottom:10px;
+}
+
+.hero p{
+font-size:18px;
+margin-bottom:20px;
+}
+
+.btn{
+display:inline-block;
+padding:14px 22px;
+border-radius:6px;
+text-decoration:none;
+font-weight:bold;
+margin:5px;
+}
+
+.btn-facebook{
+background:#1877f2;
+color:white;
+}
+
+.btn-call{
+background:#28a745;
+color:white;
+}
+
+.btn-whatsapp{
+background:#25D366;
+color:white;
+}
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:60px 20px;
+}
+
+h2{
+margin-bottom:20px;
+text-align:center;
+}
+
+.services{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+margin-top:30px;
+}
+
+.card{
+background:white;
+padding:25px;
+border-radius:8px;
+box-shadow:0 3px 10px rgba(0,0,0,0.08);
+}
+
+.gallery{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+margin-top:30px;
+}
+
+.gallery img{
+width:100%;
+border-radius:8px;
+}
+
+.reviews{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+margin-top:30px;
+}
+
+.review{
+background:white;
+padding:20px;
+border-radius:8px;
+box-shadow:0 3px 10px rgba(0,0,0,0.08);
+}
+
+.area{
+text-align:center;
+font-size:18px;
+margin-top:20px;
+}
+
+footer{
+background:#111;
+color:#bbb;
+text-align:center;
+padding:20px;
+font-size:14px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<nav>
+<div class="nav-container">
+
+<strong>Exterior Property Maintenance</strong>
+
+<div>
+<a href="#services">Services</a>
+<a href="#gallery">Our Work</a>
+<a href="#reviews">Reviews</a>
+<a href="#contact">Contact</a>
+</div>
+
+</div>
+</nav>
+
+<section class="hero">
+
+<h1>Exterior Property Maintenance</h1>
+
+<p>Leak Detection • Roofline Replacement • PVC Specialists</p>
+
+<a class="btn btn-facebook" href="https://www.facebook.com/ExteriorPropertyMaintenance" target="_blank">Facebook</a>
+
+<a class="btn btn-call" href="tel:07123456789">Call Now</a>
+
+<a class="btn btn-whatsapp" href="https://wa.me/447123456789">WhatsApp</a>
+
+</section>
+
+<section class="container">
+
+<h2>About Us</h2>
+
+<p style="text-align:center; max-width:800px; margin:auto;">
+Exterior Property Maintenance specialise in solving exterior issues that cause
+water ingress and penetrating damp. With extensive experience in roofing,
+guttering, PVC roofline systems and exterior building repairs, we provide
+reliable solutions to protect your property from the elements.
+</p>
+
+</section>
+
+<section class="container" id="services">
+
+<h2>Our Services</h2>
+
+<div class="services">
+
+<div class="card">
+<h3>Leak Detection & Repair</h3>
+<p>Professional diagnosis and repair of roof leaks, gutter faults and other external causes of water ingress.</p>
+</div>
+
+<div class="card">
+<h3>Penetrating Damp</h3>
+<p>We identify and repair external defects causing penetrating damp including brickwork, pointing and roofline issues.</p>
+</div>
+
+<div class="card">
+<h3>Roofline Replacement</h3>
+<p>Full replacement of fascias, soffits and guttering systems to protect and modernise your property.</p>
+</div>
+
+<div class="card">
+<h3>Windows & Doors</h3>
+<p>Installation and sealing of PVC windows and doors to prevent leaks and improve energy efficiency.</p>
+</div>
+
+<div class="card">
+<h3>PVC Specialists</h3>
+<p>Experts in all aspects of PVC roofline systems including installation, repairs and maintenance.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="container" id="gallery">
+
+<h2>Recent Work</h2>
+
+<div class="gallery">
+
+<img src="https://via.placeholder.com/400x300">
+<img src="https://via.placeholder.com/400x300">
+<img src="https://via.placeholder.com/400x300">
+<img src="https://via.placeholder.com/400x300">
+<img src="https://via.placeholder.com/400x300">
+<img src="https://via.placeholder.com/400x300">
+
+</div>
+
+</section>
+
+<section class="container" id="reviews">
+
+<h2>Customer Reviews</h2>
+
+<div class="reviews">
+
+<div class="review">
+⭐⭐⭐⭐⭐  
+<p>“Fantastic service. Quickly found the cause of our leak and fixed it properly.”</p>
+<strong>- Customer</strong>
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐  
+<p>“Replaced our fascias and gutters. Great workmanship and very professional.”</p>
+<strong>- Customer</strong>
+</div>
+
+<div class="review">
+⭐⭐⭐⭐⭐  
+<p>“Reliable and knowledgeable about PVC roofline systems. Highly recommended.”</p>
+<strong>- Customer</strong>
+</div>
+
+</div>
+
+</section>
+
+<section class="container">
+
+<h2>Service Areas</h2>
+
+<p class="area">
+We provide exterior property maintenance services across the surrounding areas.
+Contact us via Facebook, phone or WhatsApp to see if we cover your location.
+</p>
+
+</section>
+
+<section class="container" id="contact">
+
+<h2>Contact Us</h2>
+
+<p style="text-align:center;">
+The fastest way to reach us is through our Facebook page or WhatsApp.
+</p>
+
+<div style="text-align:center; margin-top:20px;">
+
+<a class="btn btn-facebook" href="https://www.facebook.com/ExteriorPropertyMaintenance" target="_blank">Facebook Page</a>
+
+<a class="btn btn-call" href="tel:07852194202">Call</a>
+
+<a class="btn btn-whatsapp" href="https://wa.me/07852194202">WhatsApp</a>
+
+</div>
+
+</section>
+
+<footer>
+
+Exterior Property Maintenance © 2026
+
+</footer>
+
+</body>
+</html>
